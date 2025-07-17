@@ -82,8 +82,6 @@ flutter build apk --release
 
 **Made with 💪 and caffeine by [@codecravings](https://github.com/codecravings)**
 
-*"Trading code for gains since 2024"*
-
 ---
 
 **P.S.** If this app helps you manage your gym, great! If it doesn't, well... I still got my free membership 😎
